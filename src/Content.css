@@ -1,0 +1,22 @@
+.ok, .ko, .still {
+  color: #FAFAFA;
+  height: 100%;
+  padding: 15px;
+}
+
+.still {
+  color: black;
+}
+
+.ok {
+  background-color: #4CAF50;
+}
+
+.ko {
+  background-color: #F44336
+}
+
+.km {
+  margin: 0;
+  font-size: 5em;
+}
